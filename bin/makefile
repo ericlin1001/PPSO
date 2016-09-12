@@ -1,7 +1,7 @@
 outputPath=../output
 all:runPPSO runLPSO  runGPSO runBPSO runCLPSO  output
 runPPSO:PPSO
-	mpirun -np 5 ./PPSO > ppso.txt
+	mpirun.mpich -np 5 ./PPSO > ppso.txt
 
 runLPSO:LPSO
 	./LPSO > lpso.txt

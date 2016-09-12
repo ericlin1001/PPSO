@@ -8,4 +8,4 @@ SourceCode:
 	./src/ppso.cpp
 
 Needed Software:
-	mpi
+	mpi.mpich

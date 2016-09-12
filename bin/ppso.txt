@@ -1,6 +1,5 @@
 Runing PPSO 25times.
 F	min	mean	std
 Tic::begin
-F1	3.01367e-227	1.52566e-217	0
-F2	3.93504e-157	2.73659e-152	1.11271e-151
-F3	2.79374e-15	1.43178e-12	2.87556e-12
+[mpiexec@manager] Sending Ctrl-C to processes as requested
+[mpiexec@manager] Press Ctrl-C again to force abort
